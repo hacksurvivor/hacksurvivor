@@ -11,6 +11,7 @@ I build and ship developer-facing AI systems across product and technical layers
 - Launched and operated conversational AI systems at production scale (30k+ calls/month).
 - Built architecture and workflow automation systems across voice, MCP, and agent tooling contexts.
 - Operate with a hands-on delivery style: product direction, implementation, debugging, and rollout sequencing.
+- Built private execution tracks around Genesis/OpenClaw variants and Telegram-linked code execution workflows.
 
 ## Selected Projects
 
