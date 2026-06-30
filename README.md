@@ -1,17 +1,18 @@
 # Sergey Moloman
 
-Builder-to-PM in AI systems: product strategy, engineering execution, and operational delivery.
+Founder of [RFLX AI](https://rflxai.com/founder). Private B2B AI contractor building agents, simulators, conversational systems, department automation, and AI-ready web systems for organizations.
 
-Location: Bangkok (open to relocate to San Francisco)
+Also written as Sergiu Moloman. Based in Bangkok; RFLX AI has offices in Chisinau and Bangkok.
 
-## Codex PM Proof of Work
+## Work
 
-I build and ship developer-facing AI systems across product and technical layers.
+I build and ship practical AI systems across product and engineering layers.
 
-- Launched and operated conversational AI systems at production scale (30k+ calls/month).
-- Built architecture and workflow automation systems across voice, MCP, and agent tooling contexts.
-- Operate with a hands-on delivery style: product direction, implementation, debugging, and rollout sequencing.
-- Built private execution tracks around Genesis/OpenClaw variants and Telegram-linked code execution workflows.
+- AI agents for sales, recruiting, support, operations, review, and admin workflows.
+- Conversational AI systems for voice, chat, qualification, routing, follow-up, and internal support.
+- Scenario simulators for calls, interviews, training, sales conversations, and decision workflows.
+- Department automation with tools, logs, fallbacks, review points, and deployment gates.
+- Full-stack AI products, internal dashboards, model orchestration, and AI visibility systems.
 
 ## Selected Projects
 
@@ -20,8 +21,13 @@ I build and ship developer-facing AI systems across product and technical layers
 - [insider](https://github.com/hacksurvivor/insider): Polymarket intelligence CLI for trader scoring and whale/insider pattern detection.
 - [strix](https://github.com/hacksurvivor/strix): security agent workflow exploration and adaptation surface.
 
-## Focus Areas
+## Focus
 
-- Developer workflow acceleration with AI agents
+- B2B AI integration
+- AI agents for business operations
+- Conversational and voice agents
+- Scenario simulators
+- Department automation
 - Safety and control layers for tool-calling agents
-- 0-1 product execution in ambiguous technical environments
+
+Canonical profile: [rflxai.com/founder](https://rflxai.com/founder)
