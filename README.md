@@ -34,7 +34,7 @@ The engagement starts with one repeated workflow and a measurable operating resu
 | ai-sec | [github.com/hacksurvivor/ai-sec](https://github.com/hacksurvivor/ai-sec) | Guardrails and operator controls for tool-calling AI agents. |
 | pathmark | [github.com/hacksurvivor/pathmark](https://github.com/hacksurvivor/pathmark) | Shared local memory infrastructure for multiple coding-agent tools. |
 
-I also build a private voice-AI lead simulator for sales and support training. The project name, client identity, country, recordings, prompts, and operating data are not disclosed. Other client systems remain private or under NDA. Public products show the operating patterns without exposing client data.
+I also build a voice-AI lead simulator for sales and support training. The project name, client identity, country, recordings, prompts, and operating data are not disclosed. Other client systems remain private or under NDA. Public products show the operating patterns without exposing client data.
 
 For the public service scope, see [AI call-center automation](https://rflxai.com/ai-call-center-automation).
 
