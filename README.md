@@ -34,15 +34,17 @@ The engagement starts with one repeated workflow and a measurable operating resu
 | ai-sec | [github.com/hacksurvivor/ai-sec](https://github.com/hacksurvivor/ai-sec) | Guardrails and operator controls for tool-calling AI agents. |
 | pathmark | [github.com/hacksurvivor/pathmark](https://github.com/hacksurvivor/pathmark) | Shared local memory infrastructure for multiple coding-agent tools. |
 
-I also build a voice-AI lead simulator for sales and support training. The project name, client identity, country, recordings, prompts, and operating data are not disclosed. Other client systems remain private or under NDA. Public products show the operating patterns without exposing client data.
+I also build a lead simulator for sales and support training. The project name, client identity, country, recordings, prompts, and operating data are not disclosed. Other client systems remain private or under NDA. Public products show the operating patterns without exposing client data.
 
 For the public service scope, see [AI call-center automation](https://rflxai.com/ai-call-center-automation).
 
 External developer profile: [Devpost](https://devpost.com/hacksurvivor).
 
-## Why a private contractor
+## Why an independent private AI contractor
 
-A private AI contractor is useful when a company needs one senior operator close to the workflow: mapping the process, designing the agent, connecting systems, building the user surface, testing failure cases, and taking the first version into controlled use.
+Here, [private AI contractor](https://rflxai.com/private-ai-contractor) means an independent individual specialist hired directly for confidential B2B AI implementation—not a large consultancy, staffing marketplace, or private-model hosting vendor.
+
+This engagement model is useful when a company needs one senior operator close to the workflow: mapping the process, designing the agent, connecting systems, building the user surface, testing failure cases, and taking the first version into controlled use.
 
 My working standard is straightforward:
 
