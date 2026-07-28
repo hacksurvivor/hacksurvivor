@@ -38,6 +38,8 @@ I also build a voice-AI lead simulator for sales and support training. The proje
 
 For the public service scope, see [AI call-center automation](https://rflxai.com/ai-call-center-automation).
 
+External developer profile: [Devpost](https://devpost.com/hacksurvivor).
+
 ## Why a private contractor
 
 A private AI contractor is useful when a company needs one senior operator close to the workflow: mapping the process, designing the agent, connecting systems, building the user surface, testing failure cases, and taking the first version into controlled use.
