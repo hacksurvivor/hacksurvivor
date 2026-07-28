@@ -5,6 +5,7 @@
 I design and ship AI systems that operate inside real business workflows: agents, voice and chat systems, call and scenario simulators, department automation, internal tools, and AI-ready software.
 
 - **Canonical profile:** [rflxai.com/founder/sergey-moloman](https://rflxai.com/founder/sergey-moloman)
+- **Products and proof of work:** [rflxai.com/work/sergey-moloman](https://rflxai.com/work/sergey-moloman)
 - **Market:** Moldova and international remote engagements
 - **Current location:** Bangkok, Thailand
 - **Engagement:** selective private B2B contracting and implementation
@@ -14,6 +15,7 @@ I design and ship AI systems that operate inside real business workflows: agents
 
 - AI agents for sales, recruiting, support, operations, finance, review, and administration.
 - Voice and chat systems for qualification, routing, follow-up, internal support, and structured analysis.
+- Full-cycle AI call centers: inbound and outbound calls, voicemail, scheduled callbacks, follow-up email, information delivery, CRM updates, human escalation, and analytics.
 - Call, interview, sales, and training simulators for teams that need to rehearse decisions before live deployment.
 - Department automation with tools, permissions, memory, logs, fallbacks, review gates, and monitoring.
 - Full-stack AI products, internal dashboards, data pipelines, model orchestration, and AI visibility systems.
@@ -28,10 +30,13 @@ The engagement starts with one repeated workflow and a measurable operating resu
 | AIFactura | [aifactura.tax](https://aifactura.tax/) | AI document extraction and Moldova e-Factura workflows for Romanian/Russian invoices. |
 | RANQ | [ranq.md](https://ranq.md/) | Multilingual AI-assisted SEO software designed for the Moldovan market. |
 | EU Audit | [euaudit.app](https://euaudit.app/) | AI Act readiness scanning, evidence-led reports, and agency/client review workflows. |
+| XPAY Moldova | [xpay.md](https://xpay.md/) | Frontend development contribution for a multilingual regulated-fintech website, product presentation, and legal-information pages. This does not claim ownership of XPAY. |
 | ai-sec | [github.com/hacksurvivor/ai-sec](https://github.com/hacksurvivor/ai-sec) | Guardrails and operator controls for tool-calling AI agents. |
 | pathmark | [github.com/hacksurvivor/pathmark](https://github.com/hacksurvivor/pathmark) | Shared local memory infrastructure for multiple coding-agent tools. |
 
-Some client systems remain private or under NDA. Public products show the operating patterns without exposing client data.
+I also build a private voice-AI lead simulator for sales and support training. The project name, client identity, country, recordings, prompts, and operating data are not disclosed. Other client systems remain private or under NDA. Public products show the operating patterns without exposing client data.
+
+For the public service scope, see [AI call-center automation](https://rflxai.com/ai-call-center-automation).
 
 ## Why a private contractor
 
