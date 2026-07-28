@@ -1,6 +1,6 @@
-# Sergey Moloman
+# Sergey Moloman — Independent B2B AI Integration Contractor
 
-**Independent B2B AI integration contractor serving businesses in Moldova and international teams. Founder of [RFLX AI](https://rflxai.com/).**
+**Founder of [RFLX AI](https://rflxai.com/), serving businesses in Moldova and international teams remotely.**
 
 I design and ship AI systems that operate inside real business workflows: agents, voice and chat systems, call and scenario simulators, department automation, internal tools, and AI-ready software.
 
@@ -52,7 +52,7 @@ My working standard is straightforward:
 4. Launch behind explicit stop conditions and review gates.
 5. Expand only after the first workflow is stable.
 
-## Moldova service focus
+## AI integration specialist serving Moldova
 
 I am based in Bangkok and work remotely with businesses in Moldova and international teams. Moldova is a primary service market and product focus; it is not presented as my current residence.
 
