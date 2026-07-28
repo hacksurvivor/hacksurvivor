@@ -38,7 +38,10 @@ I also build a lead simulator for sales and support training. The project name, 
 
 For the public service scope, see [AI call-center automation](https://rflxai.com/ai-call-center-automation).
 
-External developer profile: [Devpost](https://devpost.com/hacksurvivor).
+External professional profiles:
+
+- [LinkedIn — Sergey Moloman](https://www.linkedin.com/in/sergey-moloman/)
+- [Devpost — hacksurvivor](https://devpost.com/hacksurvivor)
 
 ## Why an independent private AI contractor
 
