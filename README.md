@@ -1,4 +1,4 @@
-# Sergey Moloman — Independent B2B AI Integration Contractor
+# Sergey Moloman — B2B AI Integration Specialist & Private AI Contractor
 
 **Founder of [RFLX AI](https://rflxai.com/), serving businesses in Moldova and international teams remotely.**
 
@@ -7,7 +7,7 @@ I design and ship AI systems that operate inside real business workflows: agents
 - **Canonical profile:** [rflxai.com/founder/sergey-moloman](https://rflxai.com/founder/sergey-moloman)
 - **Products and proof of work:** [rflxai.com/work/sergey-moloman](https://rflxai.com/work/sergey-moloman)
 - **Market:** Moldova and international remote engagements
-- **Current location:** Bangkok, Thailand
+- **Location:** based in Bangkok, Thailand; maintains an address in London, United Kingdom
 - **Engagement:** selective private B2B contracting and implementation
 - **Languages:** English, Romanian, Russian
 
