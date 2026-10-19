@@ -8,10 +8,14 @@ Site: [moloman.dev](https://moloman.dev) · X: [@sergey_moloman](https://x.com/s
 
 | Product | What it does |
 |---|---|
-| [Roleplay](https://moloman.dev/work/roleplay) | A voice training simulator. An AI customer built from your website: your team calls it, sees the second to fix, and tries again. |
-| [Brow](https://moloman.dev/work/brow) | Puts your MacBook's notch to work: your coding agents ask permission there. |
-| [co-od](https://moloman.dev/work/co-od) | Run Codex, Claude, Grok and other coding agents with your team in shared Mac rooms. |
-| [Dragoman](https://github.com/hacksurvivor/dragoman) | Claude plugin that localizes web, React Native and Apple apps and checks every translation. |
-| [ai-sec](https://github.com/hacksurvivor/ai-sec) | A gateway that checks what coding agents send and do: allow, review or block. |
+| [Roleplay](https://moloman.dev/work/roleplay) | Your sales team practises on an AI customer built from your own website, and sees the exact second a call went wrong. |
+| [co-od](https://moloman.dev/work/co-od) | One Mac app where your team and its coding agents, from Codex and Claude to Grok, share rooms, tasks and code review. |
+| [Brow](https://moloman.dev/work/brow) | Your coding agents ask for permission in the MacBook notch, so you approve at a glance. |
+| [Freeder](https://moloman.dev/work/freeder) | A calm ebook reader for Android: EPUB, FB2, PDF, MOBI and comics, 70,000+ free books, no ads and no account. |
+| [Cierge](https://moloman.dev/work/cierge) | In progress: an AI concierge for iPhone and Mac that makes the phone calls you'd rather not, in other languages too. |
+
+## What I build for clients
+
+Voice AI agents that make and take real phone calls (in production: 10,000+ calls a month across three countries), practice simulators, AI agents for business processes, native and mobile apps, web apps, and tools for AI coding agents. [Start a project](mailto:sergey@moloman.dev).
 
 For AI agents: [moloman.dev/llms.txt](https://moloman.dev/llms.txt)
