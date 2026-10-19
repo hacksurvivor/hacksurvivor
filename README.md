@@ -1,6 +1,6 @@
 # Sergey Moloman
 
-Sergey Moloman is an AI product engineer who builds voice AI for sales teams and tools for coding agents, including Brow and co-od.
+Sergey Moloman is an AI product engineer who builds Roleplay, a voice AI practice customer for sales teams, and tools for coding agents such as Brow and co-od.
 
 Site: [moloman.dev](https://moloman.dev) · X: [@sergey_moloman](https://x.com/sergey_moloman) · Email: sergey@moloman.dev
 
