@@ -1,6 +1,6 @@
 # Sergey Moloman
 
-I'm an AI product engineer. I build Roleplay, an AI customer that sales teams practise their calls on, and tools for coding agents such as Brow and co-od.
+I'm an AI engineer. I build Roleplay, an AI customer that sales teams practise their calls on, and tools for coding agents such as Brow and co-od.
 
 Site: [moloman.dev](https://moloman.dev) · X: [@sergey_moloman](https://x.com/sergey_moloman) · Email: sergey@moloman.dev
 
@@ -16,6 +16,6 @@ Site: [moloman.dev](https://moloman.dev) · X: [@sergey_moloman](https://x.com/s
 
 ## What I build for clients
 
-Voice AI agents that make and take real phone calls (in production: 10,000+ calls a month across three countries), practice simulators, AI agents for business processes, native and mobile apps, web apps, and tools for AI coding agents. [Start a project](mailto:sergey@moloman.dev).
+Voice AI agents that make and take real phone calls (in production: 30,000+ AI calls a month across three countries), practice simulators, AI agents for business processes, native and mobile apps, web apps, and tools for AI coding agents. [Start a project](mailto:sergey@moloman.dev).
 
 For AI agents: [moloman.dev/llms.txt](https://moloman.dev/llms.txt)
